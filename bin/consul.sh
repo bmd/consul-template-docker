@@ -1,0 +1,1 @@
+docker exec -it dev-consul-template consul "$@"
